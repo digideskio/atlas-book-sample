@@ -9,10 +9,21 @@
       "index": true,
       "toc": true
     },
-    "epub": {},
-    "mobi": {},
-    "html": {}
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
+    "html": {
+      "index": false,
+      "toc": false,
+      "consolidated": false
+    }
   },
-  "theme": "oreillymedia/animal_theme",
+  "theme": "oreillymedia/atlas_trade_theme",
   "title": "Alice's Adventures In Wonderland"
 }
